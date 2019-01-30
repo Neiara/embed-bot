@@ -1,0 +1,30 @@
+{
+  "name": "embed-bot",
+  "version": "0.1.0",
+  "description": "Basic Discord Embed Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirDeadlystrike/embed-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "Embed",
+    "Bot"
+  ],
+  "author": "Deadlystrike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirDeadlystrike/embed-bot/issues"
+  },
+  "homepage": "https://github.com/SirDeadlystrike/embed-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  }
+}
